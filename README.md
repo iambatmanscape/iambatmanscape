@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iambatmanscape
 - 👀 I’m interested in Web development right now. Though AI looks pretty good as well.
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on web applications
 - 📫 Instagram: aakashisjesus
 
