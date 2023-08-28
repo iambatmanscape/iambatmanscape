@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @iambatmanscape
-- 👀 I’m interested in Web development right now. Though AI looks pretty good as well.
-- 🌱 I’m currently learning vue
-- 💞️ I’m looking to collaborate on web applications
-- 📫 Instagram: aakashisjesus
+# Hi, I'm Aakash 👋
 
-<!---
-iambatmanscape/iambatmanscape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate Web Developer | Learning Node.js and React.js
+
+👔 [LinkedIn](www.linkedin.com/in/aakash-khamaru)
+
+## About Me
+
+I'm a dedicated web developer with a strong grasp of HTML, CSS, and JavaScript. I enjoy crafting user-friendly interfaces and bringing designs to life with code.
+
+## Tech Stack
+
+- Front-End: HTML, CSS, JavaScript, React.js
+- Back-End: Node.js (learning)
+- Version Control: Git
+- Tools: Visual Studio Code, Figma
+
+## Learning
+
+🌱 Currently honing my skills in:
+
+- **Node.js:** Exploring back-end development.
+- **React.js:** Building dynamic user interfaces.
+- **RESTful APIs:** Connecting front-end to back-end.
+
+## Let's Connect
+
+I'm enthusiastic about collaborating on web projects and connecting with fellow developers. Feel free to reach out!
+
+💌 Email: aakashisjesus@gmail.com
