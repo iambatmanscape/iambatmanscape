@@ -2,7 +2,7 @@
 
 Passionate Web Developer | Learning Node.js and React.js
 
-👔 [LinkedIn](www.linkedin.com/in/aakash-khamaru)
+👔 [LinkedIn](https://www.linkedin.com/in/aakash-khamaru/)
 
 ## About Me
 
